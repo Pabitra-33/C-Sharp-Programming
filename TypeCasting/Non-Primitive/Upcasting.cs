@@ -1,6 +1,6 @@
 using System;
 
-nampespace NonPrimitiveTypeCasting
+namespace TypeCasting.Non_Primitive
 {
     // Base class
     class Animal
