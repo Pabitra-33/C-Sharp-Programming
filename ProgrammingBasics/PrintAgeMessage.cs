@@ -12,7 +12,7 @@ namespace ProgrammingBasics
             int age = Convert.ToInt32(Console.ReadLine());
 
             // Display the message
-            Console.WriteLine("You are " + age + " years old.");
+            Console.WriteLine(age > 20 ? "You are an adult." : "You are a minor.");
         }
     }
 }
