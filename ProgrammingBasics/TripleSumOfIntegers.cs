@@ -16,7 +16,7 @@ namespace ProgrammingBasics
         }
         public static int SumTriple(int a, int b)
         {
-            return a == b ? (a + b) * 3 : a + b; // If 'a' equals 'b', return the triple sum of 'a' and 'b', otherwise return their sum
+            return a == b ? (a + b) * 3 : a + b; // If 'a' equals 'b', return the triple sum of 'a' and 'b', otherwise return their sum 
         }
     }
 }
