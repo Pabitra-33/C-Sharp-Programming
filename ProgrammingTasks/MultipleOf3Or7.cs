@@ -13,10 +13,11 @@ namespace ProgrammingTasks
         // main method
         public static void Main(string[] args)
         {
-            int number = 21; //number initialization
+            int number = 21; //number given
 
             bool result = IsMultipleOf3Or7(number); //calling method
-
+            
+            //checking result and printing appropriate message
             if (result)
             {
                 Console.WriteLine($"{number} is a multiple of 3 or 7.");
