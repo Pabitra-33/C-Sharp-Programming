@@ -4,6 +4,7 @@ namespace ProgrammingTasks
 {
     oublic class NumberLessThan100AndGreaterThan200
     {
+        //checking if number is less than 100 or greater than 200
         public static bool IsNumberLessThan100OrGreaterThan200(int number)
         {
             return number < 100 || number > 200;
