@@ -13,9 +13,11 @@ namespace ProgrammingTasks
         //main method
         public static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number:");
-            int number = Convert.ToInt32(Console.ReadLine());
-            bool result = IsNumberLessThan100OrGreaterThan200(number);
+            Console.WriteLine("Enter a number:");//asking user input
+            int number = Convert.ToInt32(Console.ReadLine());//converting input to integer
+
+            bool result = IsNumberLessThan100OrGreaterThan200(number);//storing the boolean result
+
             Console.WriteLine($"Is the number less than 100 or greater than 200? {result}");
         }
     }
