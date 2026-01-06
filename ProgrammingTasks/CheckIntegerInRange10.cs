@@ -16,9 +16,9 @@ namespace ProgrammingTasks
             Console.WriteLine("Enter a number:");//asking user input
             int number = Convert.ToInt32(Console.ReadLine());//converting input to integer
 
-            bool result = IsNumberInRange10To20(number);//storing the boolean result
+            bool result = IsNumberInRange10(number);//storing the boolean result
 
-            Console.WriteLine($"Is the number in the range of 10 to 20 inclusive? {result}");
+            Console.WriteLine($"Is the number in the range of -10 to 10 inclusive? {result}");
         }
     }
 }
