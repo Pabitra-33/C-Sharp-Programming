@@ -15,6 +15,7 @@ namespace ProgrammingTasks
         // method to calculate absolute difference or double
         public static int AbsoluteDifferenceOrDouble(int a, int b)
         {
+            // Check if 'a' is greater than 'b'
             if (a > b)
             {
                 // If 'a' is greater than 'b', return the difference of 'a' and 'b' multiplied by 2
