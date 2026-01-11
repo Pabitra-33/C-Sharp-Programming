@@ -7,7 +7,7 @@ namespace ProgrammingTasks
         //checking if number is in the range of 10 to 20 inclusive
         public static bool IsNumberInRange10To20(int number)
         {
-            return number >= -10 && number <= 10;
+            return number >= -10 && number <= 10;//returning true if in range, else false
         }
 
         //main method
