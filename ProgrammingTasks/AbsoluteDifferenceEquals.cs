@@ -7,13 +7,14 @@ namespace ProgrammingTasks
     {
         static void Main(string[] args) {
           Console.WriteLine("\nInput an integer:"); 
-          int x = Convert.ToInt32(Console.ReadLine());
+          int x = Convert.ToInt32(Console.ReadLine());//reading input from user
 
           Console.WriteLine(result(x));
         }
         
         //method to check the absolute difference condition
         public static bool result(int n) {
+            //checking if the absolute difference between n and 100 or 200 is within 20
             if (Math.Abs(n - 100) <= 20 || Math.Abs(n - 200) <= 20){
                 return true;//returning true if condition is met
             }
