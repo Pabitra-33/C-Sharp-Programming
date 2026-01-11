@@ -4,8 +4,10 @@ namespace ProgrammingTasks
 {
     class LongestWordInString
     {
-        public static void Main()
-        {          
+      //main method
+      public static void Main()
+      {
+          //given string
           string line = "Hello world this is a sample string";
 
           //splitting the string into words based on spaces
@@ -24,6 +26,6 @@ namespace ProgrammingTasks
               }
             }
             Console.WriteLine(word); // Displaying the word with the maximum length
-        }
+      }
     }
 }
