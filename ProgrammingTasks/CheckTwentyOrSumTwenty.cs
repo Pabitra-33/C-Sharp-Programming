@@ -4,6 +4,7 @@ namespace ProgrammingTasks
 {
     class CheckTwentyOrSumTwenty
     {
+        //main method to test the function
         static void Main(string[] args)
         {
             Console.WriteLine(CheckTwentyOrSum(10, 10)); // Output: True
