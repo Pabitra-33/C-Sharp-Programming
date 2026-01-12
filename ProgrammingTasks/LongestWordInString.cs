@@ -7,13 +7,13 @@ namespace ProgrammingTasks
       //main method
       public static void Main()
       {
-          //given string
+          //given string for finding the longest word
           string line = "Hello world this is a sample string";
 
           //splitting the string into words based on spaces
-          string[] words = line.Split(new[] { " " }, StringSplitOptions.None);
+          string[] words = line.Split(new[] { " " }, StringSplitOptions.None);//splitting the string into words
 
-           string word = "";
+           string word = "";//variable to store the longest word
            int ctr = 0; 
 
            // Looping through each word in the words array
