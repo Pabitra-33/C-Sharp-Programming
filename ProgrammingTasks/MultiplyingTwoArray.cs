@@ -2,6 +2,7 @@ using System;
 
 namespace ProgrammingTasks
 {
+    //class for multiplying two arrays
     public class MultiplyingTwoArray
     {
         public static int[] MultiplyArrays(int[] array1, int[] array2)
@@ -18,7 +19,8 @@ namespace ProgrammingTasks
                 throw new ArgumentException("Input arrays must have the same length.");
             }
 
-            int[] resultArray = new int[array1.Length];\
+            //initializing resultant array
+            int[] resultArray = new int[array1.Length];
 
             //traversing through arrays and multiplying elements
             for (int i = 0; i < array1.Length; i++)
@@ -41,7 +43,7 @@ namespace ProgrammingTasks
                 Console.WriteLine("Resultant Array: " + string.Join(", ", resultArray));
                 //joining array elements to print
             }
-            catch (Exception ex)
+            catch (Exception ex) //catching exceptions
             {
                 Console.WriteLine(ex.Message);
             }
