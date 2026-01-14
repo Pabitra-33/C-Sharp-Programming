@@ -2,8 +2,10 @@ using System;
 
 namespace ProgrammingTasks
 {
+    //askking the user for a number and checking if it is multiple of 3 or 7
     public class MultipleOf3Or7
     {
+        //method to check if number is multiple of 3 or 7
         public static bool IsMultipleOf3Or7(int number)
         {
             //checking if number is multiple of 3 or 7
@@ -13,9 +15,10 @@ namespace ProgrammingTasks
         // main method
         public static void Main(string[] args)
         {
-            int number = 21; //number given
+            Console.Write("Enter a number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
 
-            bool result = IsMultipleOf3Or7(number); //calling method
+            bool result = IsMultipleOf3Or7(number); //calling method and storing boolean result
             
             //checking result and printing appropriate message
             if (result)
