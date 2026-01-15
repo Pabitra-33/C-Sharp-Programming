@@ -7,7 +7,7 @@ namespace ProgrammingTasks
         //checking if number is less than 100 or greater than 200
         public static bool IsNumberLessThan100OrGreaterThan200(int number)
         {
-            return number < 100 || number > 200;
+            return number < 100 || number > 200;//returning boolean result
         }
 
         //main method
@@ -19,6 +19,6 @@ namespace ProgrammingTasks
             bool result = IsNumberLessThan100OrGreaterThan200(number);//storing the boolean result
 
             Console.WriteLine($"Is the number less than 100 or greater than 200? {result}");
-        }
+        }// main method end
     }
 }
