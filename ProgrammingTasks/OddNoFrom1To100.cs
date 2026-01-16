@@ -2,8 +2,10 @@ using System;
 
 namespace ProgrammingTasks
 {
+    // This program displays all odd numbers from 1 to 100
     class OddNoFrom1To100
     {
+        //main method
         public static void Main()
         {
             // Looping through numbers from 1 to 100
@@ -15,6 +17,6 @@ namespace ProgrammingTasks
                     Console.WriteLine(i); // Displaying the odd number
                 }
             }
-        }
+        }// End of Main method
     }
 }
