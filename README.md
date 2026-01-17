@@ -55,16 +55,16 @@ CSharp-Practice/
 
 -> Running the Code
 
-# Clone the repository
+### Clone the repository
 ```
 git clone https://github.com/yourusername/csharp-practice.git
 ```
 
-# Navigate to a specific solution
+### Navigate to a specific solution
 ```
 cd CSharp-Practice/Exercises
 ```
-# Build and run
+### Build and run
 ```
 dotnet build
 dotnet run
@@ -144,20 +144,22 @@ dotnet run
 -> Heaps and Priority Queues
 
 ## C# Specific Features
-LINQ to Objects, XML, SQL
 
-Async/Await patterns
+-> LINQ to Objects, XML, SQL
 
-Expression trees
+-> Async/Await patterns
 
-Pattern matching
+-> Expression trees
 
-Records and init-only properties
+-> Pattern matching
 
-Source generators
+-> Records and init-only properties
+
+-> Source generators
 
 ## 🧪 Testing
-Each implementation includes unit tests to verify correctness:
+
+-> Each implementation includes unit tests to verify correctness:
 
 
 # Run all tests
