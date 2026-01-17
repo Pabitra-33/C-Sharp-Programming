@@ -113,36 +113,35 @@ dotnet run
 
 -> Memory management and performance
 
-Parallel programming
+-> Parallel programming
 
-Advanced data structures
+#### Advanced data structures
 
-Algorithm optimization
+-> Algorithm optimization
 
 ## 💡 Practice Areas
-Algorithms
-Sorting algorithms (QuickSort, MergeSort, etc.)
 
-Search algorithms (Binary, Linear, etc.)
+#### Algorithms:
+-> Sorting algorithms (QuickSort, MergeSort, etc.)
 
-Graph algorithms (BFS, DFS, Dijkstra)
+-> Search algorithms (Binary, Linear, etc.)
 
-Dynamic programming problems
+-> Graph algorithms (BFS, DFS, Dijkstra)
 
-Recursion and backtracking
+-> Dynamic programming problems
 
-Data Structures
-Arrays, Lists, Dictionaries
+-> Recursion and backtracking
 
-Stacks, Queues, Deques
+#### Data Structures
+-> Arrays, Lists, Dictionaries
 
-Linked Lists (Singly, Doubly, Circular)
+-> Stacks, Queues, Deques
 
-Trees (Binary, AVL, Red-Black)
+-> Linked Lists (Singly, Doubly, Circular)
 
-Graphs (Adjacency matrix/list)
-
-Heaps and Priority Queues
+ ->Trees (Binary, AVL, Red-Black)
+ 
+-> Heaps and Priority Queues
 
 ## C# Specific Features
 LINQ to Objects, XML, SQL
