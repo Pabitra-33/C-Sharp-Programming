@@ -20,6 +20,7 @@ namespace ProgrammingTasks
        //main method
         public static void Main(string[] args)
         {
+            //test cases
             Console.WriteLine(StartsWithWord("hello world", "hello")); // True
             Console.WriteLine(StartsWithWord("hello world", "world")); // False
             Console.WriteLine(StartsWithWord("hello world", ""));      // True
