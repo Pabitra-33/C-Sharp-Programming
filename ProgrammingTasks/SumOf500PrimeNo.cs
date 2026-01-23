@@ -2,7 +2,10 @@ using System;
 
 namespace ProgrammingTasks
 {
-    public static void Main() 
+    // This program calculates the sum of the first 500 prime numbers
+    public class SumOf500PrimeNo
+    {
+    public static void Main()
     {     
         Console.WriteLine("\nSum of the first 500 prime numbers: ");
 
@@ -24,6 +27,7 @@ namespace ProgrammingTasks
         Console.WriteLine(sum); // Displaying the sum
     }
 
+
     // Method to check if a number is prime
     public static bool isPrime(int num)
     {
@@ -37,7 +41,6 @@ namespace ProgrammingTasks
         {
             if (num % i == 0) return false; // If 'num' is divisible by 'i', it's not a prime number
         }
-
         return true; // 'n' is prime if not divisible by any number except 1 and itself
     }
 }
