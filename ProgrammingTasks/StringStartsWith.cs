@@ -2,8 +2,10 @@ using System;
 
 namespace ProgrammingTasks
 {
+    // This program checks if a string starts with the letter 'a' or 'A'
     public class StringStartsWith
     {
+        // method to check if string starts with 'a' or 'A'
         public static bool DoesStringStartsWith(string input){
             if(string.IsNullOrEmpty(input)){
                 return false; // return false for null or empty strings
@@ -18,6 +20,7 @@ namespace ProgrammingTasks
 
             bool result = DoesStringStartsWith(input); //calling method
 
+            //printing result
             if (result)
             {
                 Console.WriteLine($"\"{input}\" starts with 'a' or 'A'.");
