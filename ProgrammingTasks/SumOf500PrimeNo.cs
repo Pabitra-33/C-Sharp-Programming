@@ -5,12 +5,12 @@ namespace ProgrammingTasks
     // This program calculates the sum of the first 500 prime numbers
     public class SumOf500PrimeNo
     {
-    public static void Main()
-    {     
-        Console.WriteLine("\nSum of the first 500 prime numbers: ");
-
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\nSum of the first 500 prime numbers: ");
+        //to store the sum of prime numbers
         int sum = 0;
-        int counter = 0; 
+        int counter = 0; // Counter to keep track of how many prime numbers have been found
         int n = 2; // Starting from the first prime number
 
         // Looping to find and sum the first 500 prime numbers
@@ -25,6 +25,7 @@ namespace ProgrammingTasks
         }
 
         Console.WriteLine(sum); // Displaying the sum
+        }
     }
 
 
