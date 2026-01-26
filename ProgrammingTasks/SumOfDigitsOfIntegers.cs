@@ -5,7 +5,7 @@ namespace ProgrammingTasks
     // This program calculates the sum of the digits of a given positive integer N.
     public class SumOfDigitsOfIntegers
     {
-        //main method
+        //main method starts here
         public static void Main(string[] args)
         {
             // Prompting user for input
