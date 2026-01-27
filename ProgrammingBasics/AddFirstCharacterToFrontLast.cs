@@ -2,8 +2,10 @@ using System;
 
 namespace ProgrammingBasics
 {
+    // This program adds the first character of a given string to both the front and back of the string.
     public class AddFirstCharacterToFrontLast
     {
+        //main method starts here
         static void Main(string[] args)
         {
             string str; // Declaring a variable to store the input string
