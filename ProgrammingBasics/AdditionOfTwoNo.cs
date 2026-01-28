@@ -21,6 +21,8 @@ namespace ProgrammingBasics
             sum = num1 + num2;//calculating sum of two numbers
 
             Console.WriteLine("The sum of {0} and {1} is: {2}", num1, num2, sum);
+            //waiting for user to see the result
+            Console.ReadLine();
         }
     }
 }
