@@ -26,11 +26,12 @@ namespace ProgrammingBasics
         // Method to divide two numbers
         public double Divide(int a, int b)
         {
+            // Check for division by zero
             if (b == 0)
             {
                 throw new DivideByZeroException("Denominator cannot be zero.");
             }
-            return (double)a / b;
+            return (double)a / b;// Ensuring floating point division
         }
 
         // Main method to test the arithmetic operations
@@ -44,6 +45,6 @@ namespace ProgrammingBasics
             Console.WriteLine("Subtraction: " + operations.Subtract(10, 5));
             Console.WriteLine("Multiplication: " + operations.Multiply(10, 5));
             Console.WriteLine("Division: " + operations.Divide(10, 5));
-        }
+        }// End of Main method
     }
 }
