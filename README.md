@@ -1,4 +1,4 @@
-# C# Programming Practice 
+# C# Programming Practice Repository 
 
 ## 📚 Overview
 A comprehensive collection of C# programming exercises, algorithms, data structures, and practical implementations designed to enhance C# development skills. This repository serves as both a learning resource and a reference guide for C# best practices, patterns, and modern language features.
