@@ -15,7 +15,7 @@ A comprehensive collection of C# programming exercises, algorithms, data structu
 
 - Build reusable code snippets and utilities
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
 ```
 CSharp-Practice/
 ├── Algorithms/          # Algorithm implementations
@@ -45,7 +45,8 @@ CSharp-Practice/
 └── Tests/               # Unit tests
 ```
 
-## 🚀 Getting Started
+## 🚀 Getting Started 
+
 ### Prerequisites:
 -> .NET SDK (version 6.0 or higher)
 
