@@ -4,7 +4,6 @@
 A comprehensive collection of C# programming exercises, algorithms, data structures, and practical implementations designed to enhance C# development skills. This repository serves as both a learning resource and a reference guide for C# best practices, patterns, and modern language features.
 
 ## 🎯 Purpose
-
 - Practice and master C# programming concepts
 
 - Implement common algorithms and data structures in C#
@@ -145,7 +144,6 @@ dotnet run
 -> Heaps and Priority Queues
 
 ## C# Specific Features
-
 -> LINQ to Objects, XML, SQL
 
 -> Async/Await patterns
