@@ -2,9 +2,11 @@ using System;
 
 namespace ProgrammingBasics
 {
+    // This class calculates the average of four numbers.
     class AverageOfFourNo
     {
-        static void Main(string[] args)
+        // Main method to calculate the average of four numbers
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter four numbers:");
 
