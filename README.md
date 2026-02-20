@@ -7,10 +7,10 @@ A comprehensive collection of C# programming exercises, algorithms, data structu
 - Practice and master C# programming concepts
 
 - Implement common algorithms and data structures in C#
-
+ 
 - Explore .NET features and best practices
 
-- Prepare for technical interviews
+- Prepare for technical interviews 
 
 - Build reusable code snippets and utilities
 
@@ -64,12 +64,12 @@ git clone https://github.com/yourusername/csharp-practice.git
 ```
 cd CSharp-Practice/Exercises
 ```
-### Build and run
+### Build and Run
 ```
 dotnet build
 dotnet run
 ```
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used Here
 
 -> .NET 6/7/8/10 - Cross-platform development framework
 
@@ -99,7 +99,7 @@ dotnet run
 
 -> Advanced LINQ queries
 
--> Asynchronous programming (async/await)
+-> Asynchronous programming (async/await) important
 
 -> Delegates, events, and lambdas
 
