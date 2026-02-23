@@ -180,7 +180,7 @@ public class SortingBenchmarks
 }
 ```
 
-## 🤝 Contributing
+## 🤝 Contributing:
 Contributions are welcome! Please follow these steps:
 
 Fork the repository
@@ -193,7 +193,7 @@ Push to branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📝 Code Style Guidelines
+📝 Code Style Guidelines:
 Use meaningful variable and method names
 
 Follow C# naming conventions (PascalCase for methods, camelCase for variables)
@@ -206,7 +206,7 @@ Use var when type is obvious from right-hand side
 
 Prefer expression-bodied members for simple methods
 
-## 🔗 Useful Resources
+## 🔗 Useful Resources:
 Microsoft C# Documentation
 
 LeetCode - Coding challenges
