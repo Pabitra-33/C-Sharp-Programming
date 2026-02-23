@@ -54,16 +54,16 @@ CSharp-Practice/
 
 -> Running the Code
 
-### Clone the repository
+### Clone the repository:
 ```
 git clone https://github.com/yourusername/csharp-practice.git
 ```
 
-### Navigate to a specific solution
+### Navigate to a specific solution:
 ```
 cd CSharp-Practice/Exercises
 ```
-### Build and Run
+### Build and Run:
 ```
 dotnet build
 dotnet run
