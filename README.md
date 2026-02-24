@@ -80,9 +80,9 @@ dotnet run
 
 -> LINQPad - Interactive C# scratchpad
 
-## 📖 Learning Path
+## 📖 Learning Path:
 
-#### Beginner Level
+#### Beginner Level:
 
 -> Basic syntax and control structures
 
@@ -94,7 +94,7 @@ dotnet run
 
 -> File I/O operations
 
-#### Intermediate Level
+#### Intermediate Level:
 
 -> Advanced LINQ queries
 
