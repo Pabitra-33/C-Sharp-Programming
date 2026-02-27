@@ -160,16 +160,16 @@ dotnet run
 -> Each implementation includes unit tests to verify correctness:
 
 
-# Run all tests
+# Run all tests:
 ```
 dotnet test
 ```
-# Run specific test project
+# Run specific test project:
 ```
 dotnet test ./Tests/AlgorithmTests
 ```
 
-## 📈 Performance
+## 📈 Performance:
 Some solutions include benchmarking using BenchmarkDotNet:
 ```
 csharp
