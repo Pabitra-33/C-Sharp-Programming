@@ -1,8 +1,8 @@
-# C# Programming Practice Repository 
-## 📚 Overview:
+# C# Programming Practice Repository
+## 📚 Overview :
 A comprehensive collection of C# programming exercises, algorithms, data structures, and practical implementations designed to enhance C# development skills. This repository serves as both a learning resource and a reference guide for C# best practices, patterns, and modern language features.
 
-## 🎯 Purpose:
+## 🎯 Purpose :
 - Practice and master C# programming concepts
 
 - Implement common algorithms and data structures in C#
@@ -13,7 +13,7 @@ A comprehensive collection of C# programming exercises, algorithms, data structu
 
 - Build reusable code snippets and utilities
 
-## 📁 Repository Structure: 
+## 📁 Repository Structure : 
 ```
 CSharp-Practice/
 ├── Algorithms/          # Algorithm implementations
